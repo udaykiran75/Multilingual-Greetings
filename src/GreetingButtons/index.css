@@ -1,0 +1,25 @@
+.language-item {
+  list-style-type: none;
+}
+.activeBtnStyle {
+  color: #ffffff;
+  background-color: #db1c48;
+  border: none;
+  outline: none;
+  width: 90px;
+  height: 35px;
+  border-radius: 20px;
+  cursor: pointer;
+  font-size: 15px;
+}
+.inactiveBtnStyle {
+  color: #db1c48;
+  background-color: transparent;
+  border: 1px solid #db1c48;
+  outline: none;
+  width: 90px;
+  height: 35px;
+  border-radius: 20px;
+  cursor: pointer;
+  font-size: 15px;
+}
